@@ -1,0 +1,23 @@
+{
+  "name": "multi-js",
+  "version": "0.0.1",
+  "description": "Run functions parallel in JavaScript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electrikmilk/multi-js"
+  },
+  "keywords": [
+    "worker",
+    "scheduler",
+    "multitask"
+  ],
+  "author": "Brandon Jordan",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfn": "^0.31.0"
+  }
+}
