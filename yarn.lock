@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-jsonfn@^0.31.0:
-  version "0.31.0"
-  resolved "https://registry.yarnpkg.com/jsonfn/-/jsonfn-0.31.0.tgz#8cd09ee376d46df75c2c0de3c548a95dbb81dc8b"
-  integrity sha512-plmFJ1RIM+FzpeRIRabarGCC39BOCTmrVzcjxqSL5bEAiHKhERSuyD3/yQfYvbTQk0k91yAkcAqwwqafmMzDKQ==
+"jsonfn@^0.31.0":
+  "integrity" "sha512-plmFJ1RIM+FzpeRIRabarGCC39BOCTmrVzcjxqSL5bEAiHKhERSuyD3/yQfYvbTQk0k91yAkcAqwwqafmMzDKQ=="
+  "resolved" "https://registry.npmjs.org/jsonfn/-/jsonfn-0.31.0.tgz"
+  "version" "0.31.0"
