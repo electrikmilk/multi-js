@@ -24,12 +24,6 @@ export class Thread {
     }
 }
 
-export function go(task) {
-    setTimeout(() => {
-        task();
-    }, 0);
-}
-
 class Arbeiter {
     constructor(name, path, type = 'module') {
         if (!window.Worker) {
